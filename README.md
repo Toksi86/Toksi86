@@ -1,4 +1,4 @@
-### Hi there 👋
+### My LeetCode
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Toksi86&theme=dark)](https://leetcode.com/Toksi86/)
 
