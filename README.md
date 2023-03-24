@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/Toksi86/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Toksi86&theme=dark)](https://leetcode.com/Toksi86/)
 
 <!--
 **Toksi86/Toksi86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
